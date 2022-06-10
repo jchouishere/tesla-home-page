@@ -6,4 +6,12 @@
 
 
 
+[Waze](https://teslawaze.azurewebsites.net/)
+
+
+
+[Podcasts](https://overcast.fm/podcasts)
+
+
+
 [Android Auto](https://androidwheels.com/)
